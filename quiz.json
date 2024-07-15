@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of smartphone brands with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Apple's phone?",
+      "answers": ["iPhone", "Pixel", "Galaxy"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Samsung's phone?",
+      "answers": ["Galaxy", "iPhone", "Pixel"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Google's phone?",
+      "answers": ["Pixel", "Galaxy", "iPhone"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "OnePlus' model?",
+      "answers": ["Nord", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Huawei's model?",
+      "answers": ["P40", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Xiaomi's brand?",
+      "answers": ["Mi", "Galaxy", "iPhone"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Sony's series?",
+      "answers": ["Xperia", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "LG's series?",
+      "answers": ["G", "Galaxy", "iPhone"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Motorola's model?",
+      "answers": ["Razr", "Pixel", "iPhone"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Nokia's series?",
+      "answers": ["Lumia", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "HTC's model?",
+      "answers": ["Desire", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Oppo's brand?",
+      "answers": ["Reno", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Vivo's series?",
+      "answers": ["X", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "ZTE's model?",
+      "answers": ["Axon", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Asus' phone?",
+      "answers": ["Zenfone", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Honor's brand?",
+      "answers": ["View", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Lenovo's series?",
+      "answers": ["Z", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Realme's model?",
+      "answers": ["Realme", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "BlackBerry's model?",
+      "answers": ["Curve", "iPhone", "Pixel"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which brand has Note?",
+      "answers": ["Samsung", "Apple", "Google"],
       "correctAnswerIndex": 0
     }
   ]
